@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rabbitmq.Template.Publisher
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQ.Template.Consumer", "..\RabbitMQ.Template.Consumer\RabbitMQ.Template.Consumer.csproj", "{D9D93E98-F05D-4741-84F9-58B2C789E026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.UdemyCourse.Consumer", "..\RabbitMQ.UdemyCourse.Consumer\RabbitMQ.UdemyCourse.Consumer.csproj", "{AA26320D-839B-4CEB-857E-4DCF7F6E5330}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQ.UdemyCourse.Consumer", "..\RabbitMQ.UdemyCourse.Consumer\RabbitMQ.UdemyCourse.Consumer.csproj", "{AA26320D-839B-4CEB-857E-4DCF7F6E5330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.AddWatermarkProject", "..\RabbitMQ.AddWatermarkProject\RabbitMQ.AddWatermarkProject.csproj", "{945B2D0C-D65E-49EB-BC70-EB4B080E45CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{AA26320D-839B-4CEB-857E-4DCF7F6E5330}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA26320D-839B-4CEB-857E-4DCF7F6E5330}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA26320D-839B-4CEB-857E-4DCF7F6E5330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945B2D0C-D65E-49EB-BC70-EB4B080E45CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945B2D0C-D65E-49EB-BC70-EB4B080E45CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945B2D0C-D65E-49EB-BC70-EB4B080E45CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945B2D0C-D65E-49EB-BC70-EB4B080E45CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
